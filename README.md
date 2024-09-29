@@ -34,8 +34,6 @@ Below are the tools and technologies that form the backbone of my development wo
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Tech Stack](https://images.unsplash.com/photo-1517430816045-df4b7de9966a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 ## 🌍 Beyond Code
 - ✈ **Global Explorer:** My wanderlust takes me across borders and cultures, enriching my perspective on the world. Every journey is a new chapter in my story.
 - 🗣 **Linguistic Enthusiast:** Fluent in **Burmese** (native) ![Myanmar Flag](https://img.shields.io/badge/-E9FF32?style=flat&logo=Myanmar&logoColor=black), **English** (advanced) ![UK Flag](https://img.shields.io/badge/-007FFF?style=flat&logo=United-Kingdom&logoColor=white), and **Japanese** (intermediate) ![Japan Flag](https://img.shields.io/badge/-DD0000?style=flat&logo=Japan&logoColor=white).
