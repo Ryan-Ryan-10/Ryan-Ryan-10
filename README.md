@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Thar Nyi Phyo 👋
 
-<!--
-**Ryan-Ryan-10/Ryan-Ryan-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and student at the University of Computer Studies. I enjoy solving complex problems and building web applications with tools like C++, Laravel, and Tailwind CSS. Currently, I'm working on projects that challenge me creatively and technically, from developing a travel website to designing intuitive user interfaces.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools:
+- C++, PHP, JavaScript
+- Laravel, Tailwind CSS, Bootstrap
+- HTML, CSS
+- MySQL, SQLite
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning:
+- Advanced C++ Programming
+- Physics (focus: Temperature Variation of Resistance)
+
+## 📫 Let's Connect:
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
