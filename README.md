@@ -6,7 +6,7 @@ I'm **Ryan**, a passionate software developer and a dedicated student at the Nat
 ## 🌟 About Me
 I am an ardent enthusiast of technology, continually exploring the dynamic realms of web development and machine learning. My journey is fueled by curiosity and an unwavering commitment to mastering the craft. Here are some of my key pursuits:
 
-- 🌐 **Web Development:** Crafting responsive and aesthetically pleasing websites is my forte. With a keen eye for design and functionality, I specialize in HTML, CSS, and JavaScript, bringing ideas to life on the web.
+- 🌐 **Web Development:** Crafting responsive and aesthetically pleasing websites is my forte. With a keen eye for design and functionality, I specialize in HTML, CSS, and JavaScript, bringing ideas to life on the web development.
 - 📚 **Lifelong Learner:** The world of technology is ever-evolving, and so am I. From delving into new programming languages to experimenting with cutting-edge frameworks, I thrive on the challenge of continuous learning.
 
 ## 🛠️ Tech Stack
@@ -38,8 +38,7 @@ Below are the tools and technologies that form the backbone of my development wo
 
 ## 🌍 Beyond Code
 - ✈ **Global Explorer:** My wanderlust takes me across borders and cultures, enriching my perspective on the world. Every journey is a new chapter in my story.
-- 🗣 **Linguistic Enthusiast:** Fluent in **Burmese** ![Myanmar Flag](https://img.shields.io/badge/-E9FF32?style=flat&logo=Myanmar&logoColor=black), **English** ![UK Flag](https://img.shields.io/badge/-007FFF?style=flat&logo=United-Kingdom&logoColor=white), and currently learning **Japanese** ![Japan Flag](https://img.shields.io/badge/-DD0000?style=flat&logo=Japan&logoColor=white).
-
+- 🗣 **Linguistic Enthusiast:** Fluent in **Burmese** (native) ![Myanmar Flag](https://img.shields.io/badge/-E9FF32?style=flat&logo=Myanmar&logoColor=black), **English** (advanced) ![UK Flag](https://img.shields.io/badge/-007FFF?style=flat&logo=United-Kingdom&logoColor=white), and **Japanese** (intermediate) ![Japan Flag](https://img.shields.io/badge/-DD0000?style=flat&logo=Japan&logoColor=white).
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities or tech discussions!
 
