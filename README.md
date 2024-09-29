@@ -1,54 +1,46 @@
-# Hi there, I'm Ryan! 👋
+# Hello, World! 👋  
+I'm **Ryan**, a passionate software developer and a dedicated student at the National University of Computer Studies. Welcome to my GitHub sanctuary, where innovation meets creativity!
 
-🎓 **Student at National University of Computer Studies**  
-💻 **Passionate Software Developer** | 🌍 **Traveler** | 📖 **Lifelong Learner**
+![Profile Banner](https://i.pinimg.com/564x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg)
 
----
+## 🌟 About Me
+I am an ardent enthusiast of technology, continually exploring the dynamic realms of web development and machine learning. My journey is fueled by curiosity and an unwavering commitment to mastering the craft. Here are some of my key pursuits:
 
-## 🔧 **Technologies & Tools**:
-I have experience in a wide range of technologies and tools that I love to use for creating amazing applications.
+- 🌐 **Web Development:** Crafting responsive and aesthetically pleasing websites is my forte. With a keen eye for design and functionality, I specialize in HTML, CSS, and JavaScript, bringing ideas to life on the web.
+- 📚 **Lifelong Learner:** The world of technology is ever-evolving, and so am I. From delving into new programming languages to experimenting with cutting-edge frameworks, I thrive on the challenge of continuous learning.
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+## 🛠️ Tech Stack
+Below are the tools and technologies that form the backbone of my development work:
 
----
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌟 **What I Enjoy**:
-Beyond coding, I enjoy pursuing other hobbies and activities to balance life:
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 🌍 **Traveling** – I love exploring new places and experiencing different cultures.
-- 📚 **Reading** – Always open to expanding my knowledge through books.
-- 🎧 **Music** – Occasionally unwind by listening to good music.
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌐 **Languages**:
-- 🇲🇲 **Burmese** (Native)
-- 🇬🇧 **English** (Advanced)
-- 🇯🇵 **Japanese** (Intermediate)
+![Tech Stack](https://images.unsplash.com/photo-1517430816045-df4b7de9966a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
----
+## 🌍 Beyond Code
+- ✈ **Global Explorer:** My wanderlust takes me across borders and cultures, enriching my perspective on the world. Every journey is a new chapter in my story.
+- 🗣 **Linguistic Enthusiast:** Fluent in **Burmese** ![Myanmar Flag](https://img.shields.io/badge/-E9FF32?style=flat&logo=Myanmar&logoColor=black), **English** ![UK Flag](https://img.shields.io/badge/-007FFF?style=flat&logo=United-Kingdom&logoColor=white), and currently learning **Japanese** ![Japan Flag](https://img.shields.io/badge/-DD0000?style=flat&logo=Japan&logoColor=white).
 
-## 🚀 **Skills**:
-- 🧠 **Quick Learner** – Always eager to explore and master new technologies.
-- 👥 **Social Skills** – Effective communicator and team player.
-- 🎨 **Canva Proficiency** – Skilled at creating visuals for presentations and marketing.
-- 🎤 **Public Speaking** – Confident speaker with strong presentation skills.
 
----
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities or tech discussions!
 
-## 📫 **Let’s Connect!**  
-Feel free to reach out if you want to collaborate, share ideas, or just have a chat!
-
----
-
-✨ "Strive for progress, not perfection."  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan-Ryan-10&show_icons=true&theme=radical)
